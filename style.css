@@ -28,7 +28,7 @@ button{
 div{
     text-align: justify;
     font-size: 50px;
-    padding-top: 50px;
+    padding-top: 15%;
 }
     #d0{
         width: 100%;
@@ -46,7 +46,7 @@ div{
         /*color: rgb(98, 0, 255, 0.301);
         /*background-color: blueviolet;*/
         float: right;
-        transform: translate(-50%, -50%) translateX(15px) translateZ(1px)scale(.25);
+        transform: translate(-50%, -50%) translateX(23px) translateZ(1px)scale(.25);
     }
 
     #d2{
